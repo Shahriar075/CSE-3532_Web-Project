@@ -1,0 +1,9 @@
+db:
+  host: "remotemysql.com"
+  user: "0GRRtNDz9f"
+  passwd: "zS5KqoN3dB"
+  database: "0GRRtNDz9f"
+  auth_plugin: "mysql_native_password"
+
+system_pass:
+  admin: "admin@123"
